@@ -1,0 +1,127 @@
+.cabeza{
+	width: 100%;
+	height: 200PX;
+	background: #25EA78 ;
+	text-align: center;
+}
+.BASKETBOL{
+	text-align: center;
+}
+.BASKETBOL IMG{
+	width: 300PX;
+	height: 300PX;
+}
+h1{
+	font-size: 80PX;
+	padding: 50PX;
+	color: black ;
+	text-align: center;
+}
+h4{
+	text-align: center;
+} 
+.GENERAL{
+	display: inline-flex;
+	width: 100%;
+	height: 900PX;
+	text-align: right;
+}
+.AMARILLO{
+display: inline-flex;
+}
+.MENU{
+	background: #2ECC71;
+	text-align: center;
+}
+.publicidad{
+	display: inline-flex;
+	text-align: rightS;
+}
+.equipo IMG{
+	width: 300PX;
+	height: 300PX;
+	text-align: center;
+}
+p{
+	font-size: 29PX;
+	padding: 20PX;
+	color: black ;
+	text-align: left;
+}
+.MENU li{
+	display: inline-flex;
+}
+.MENU li a{
+	display: block;
+	padding: 15px 15px;
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+}
+.BASKETBOL MARQUEE{
+	height: 25PX;
+	width: 50PX;
+}
+.AMARILLO{
+	width: 100%;
+	height: 200PX;
+	background: #25EA78 ;
+	text-align: centerS
+}
+.TELEFONO IMG{
+	height: 50PX;
+	width: 50PX;
+}
+.ABANCIN IMG{
+	height: 25PX;
+	width: 50PX;
+	text-align: center;
+}
+.informacion IMG{
+	display: inline-flex;
+	width: 25%;
+	height: 300PX;
+}
+.femenino IMG{
+	height: 15%;
+	width: 10PX;
+}
+.ALEX IMG{
+	height: 25px;
+	width: 59PX;
+}
+.50 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.10 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.3 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.34 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.4 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.44 IMG{
+	height: 25PX;
+	width: 25PX;
+}
+.9 IMG{
+	height: 500PX;
+	width: 25PX;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-size: 33PX;
+	padding: 23PX;
+	color: green;
+}
